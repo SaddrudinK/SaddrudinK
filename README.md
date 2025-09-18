@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SaddrudinK
-- I'm a passionate Machine Learning and AI enthusiast currently working on exciting ML projects. Welcome to my GitHub profile.
+- I'm a passionate Data Analyst and ML/AI enthusiast currently working on strong projects. Welcome to my GitHub profile.
   
-- 👀 I’m interested in Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently working on ML projects to upskill and explore new opportunities.
-- 💞️ I’m looking to collaborate on ML projects to showcase my skills and grow.
+- 👀 I’m interested in Data Analystic and ML/AI.
+- 🌱 I’m currently working on Data and ML projects to upskill and explore new opportunities.
+- 💞️ I’m looking to collaborate on projects to showcase my skills and grow.
   
 - Skills:
 - Language: Python, SQL
